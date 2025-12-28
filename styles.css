@@ -1,0 +1,16 @@
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+nav button {
+    font-size:medium;
+    color:#A27B5C;
+    border-style:solid;
+    border-width: 1px;
+    border-color:#A27B5C;
+    padding: 12px 16px 12px 16px;
+}
+#cart{
+    color:#FFFFFF;
+    background-color:#A27B5C;
+}
